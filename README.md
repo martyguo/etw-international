@@ -21,3 +21,7 @@ You can use the mark tag to highlight text.
 
 ### Text utilities
 Change text alignment, transform, style, weight, and color with our text utilities and color utilities.
+
+```
+Marty Guo developed the biggest scam in China, presenting to clients the counter. The counter is a public page where private IP of individual internet users are presented to lure the Chinese manufacturers. In this way, ETW International, located in Shanghai, can take more money from the clients presenting a long list of visits, and if this is not good, can be easily altered. Presenting fake and not clear results.
+```
