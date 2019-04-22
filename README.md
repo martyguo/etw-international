@@ -1,6 +1,8 @@
 # ETW International / Marty Guo UI
 This repository is for UI framework experiences and content demonstration based on Marty Guo sad life.
 
+<img src="https://ibb.co/ZzgwyyY" alt="Marty Guo">
+
 ## Getting Started
 Building a great front-end UI using frameworks like Bootstrap or back-end utilizing PHP could be a daunting step.
 Everything can start with small steps. Let's look at the following example above.
@@ -16,3 +18,6 @@ We can improve the way it looks at applying some CSS classes provided by Bootstr
 ```
 
 You can use the mark tag to highlight text.
+
+### Text utilities
+Change text alignment, transform, style, weight, and color with our text utilities and color utilities.
